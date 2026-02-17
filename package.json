@@ -1,0 +1,25 @@
+{
+  "name": "ai-software-engineer-assignment-ts",
+  "version": "1.0.0",
+  "description": "assignment",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "vitest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kagame8732/ai-software-engineer-assignment-ts.git"
+  },
+  "author": "Alex K.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kagame8732/ai-software-engineer-assignment-ts/issues"
+  },
+  "homepage": "https://github.com/kagame8732/ai-software-engineer-assignment-ts#readme",
+  "devDependencies": {
+    "vitest": "4.0.18"
+  }
+}
